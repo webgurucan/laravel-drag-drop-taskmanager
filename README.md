@@ -15,8 +15,8 @@ You should install PHP, composer and Apache/Mysql server.
 ## Installation
 
 ### 1. Get Source
-1) Go to your document root of your apache server.
-2) Get the source files in your local apache server.
+- Go to your document root of your apache server.
+- Get the source files in your local apache server.
 #### Get project from Git
 ```git
 git clone https://github.com/anydev1103/laravel-drag-drop-taskmanager.git
